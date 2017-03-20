@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "arn:aws:iam::501965974906:role/dash-executor",
+    "name": "hello-world-test-play",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "mkomxrou81"
+  }
+}
